@@ -1,0 +1,9 @@
+{
+    "start_key":"j",
+    "end_key":"p",
+    "default_look_tolerance":20,
+    "area_script_execution_order":[
+        "stage1.BorderScript",
+        "stage2.BorderScript"
+    ]
+}
